@@ -1,0 +1,2 @@
+REIMAGINE_BANK_SANDBOX_API_KEY = 'f2db3ffe425c1b0f8cc739109b0d9d1d'
+REIMAGINE_BANK_SANDBOX_API_URL = 'http://api.reimaginebanking.com'
